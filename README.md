@@ -1,4 +1,4 @@
-### Hello There, Welcome to my Github profile 👋
+### Hello There, Welcome to my GitHub profile 👋
 
 🦾 Technology Enthusiast
 
