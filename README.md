@@ -6,5 +6,5 @@
 
 <div display="flex" flex-direction="row">
   <img alt="Aminriqky's Top Langs" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminriqky&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ydWxyMjAxZnJ3d29yYXJyNzJ3cmVtcnp3Nmx1cmI0dHpxaGl1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10MZQQpiRmXsDS/giphy.gif" height="155" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21zZHNkZ2p3enltZDcyd2Z0aWZiNWdnN2s0Y2pibzVyZjd2dGhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBs2F5jUfUWePKw/giphy.gif" height="155" />
 </div>
