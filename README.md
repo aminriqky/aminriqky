@@ -1,6 +1,6 @@
 ### Hello There, Welcome to my GitHub profile 👋
 
-🦾 Technology Enthusiast
+🧤 I identify myself as a Creative Technologist.
 
 💺 See what I'm currently doing: [LinkedIn](https://www.linkedin.com/in/aminriqky/)
 
