@@ -1,4 +1,4 @@
-### Hello There, Welcome to my GitHub profile 👋
+### Greetings, Welcome to my GitHub profile 👋
 
 🧤 I identify myself as a Creative Technologist.
 
